@@ -1,7 +1,7 @@
 
 var to = 'My Darling!';
 var gift_url = 'https://www.facebook.com/profile.php?id=100080302442739';
-var gift_image_url = 'embe3.jpg';
+var gift_image_url = 'https://github.com/Baymax0103/qua/blob/main/embe3.jpg?raw=true';
 
 
 
